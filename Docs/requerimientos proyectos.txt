@@ -1,0 +1,36 @@
+***Historias de usuario***
+
+como usuario interesado en productos frescos y locales, quiero poder realizar pedidos de manera conveniento en la plataforma de Agroplace, para recibir alimentos de alta calidad directamente de agricultores de la region.
+
+1-. Como usuario, quiero poder crear una cuenta en Agroplace utilizando mi correo electronico y estableciendo una contraseña segura.
+
+2-. Como usuario, quiero poder navegar por una interfaz intuitiva y facil de usar que me permita explorar una variedad de productos agricolas disponibles.
+
+3-. como usuario, quiero ver informacion detallada sobre cada producto, incluyendo su origen, metodos de cultivos y certificaciones, para tomar decisiones informadas.
+
+4-. Como usuario, quiero poder agregar productos a mi carrito de compras y gestionar las cantidades de cada articulo.
+
+5-.Como usuario, quiero poder revisar mi carrito antes de proceder al pago y realizar cualquier ajuste necesario.
+
+6-. Como usuario, quiero poder realizar pagos de manera segura utilizando metodos de pago convencionales (tarjetas de credito, paypal, etc.).
+
+7-. Como usuario, quiero recibir confirmaciones inmediatas de mi pedido y actualizaciones sobre el estado de mi entrega.
+
+8-. Como usuario, quiero poder proporcionar retroalimentacion y calificar productos despues de recibirlos para ayudar a otros consumidores en sus decisiones de compra.
+
+9-. Como usuario, quiero poder contactar facilmente con el soporte al cliente en caso de tener alguna pregunta o problema con mi pedido.
+
+
+***Levantamiento de requerimientos***
+
+Requerimientos funcionales:
+	1. los usuarios deben poder registrarse utilizando su correo electronico y crear perfiles.
+	2. los agricultores deben poder listar sus productos en la plataforma, incluyendo descripciones imagenes y precios.
+	3. los consumidores deben poder buscar productos por categoria, temporada o proveedor.
+	4. la plataforma debe permitir a los usuarios agregar productos al carrito de compras y realizar pagos de forma segura.
+	5. los usuarios deben recibir notificaciones sobre el estado de sus pedidos y actualizaciones de entrega.
+
+Requerimientos no funcionales:
+	1. la plataforma debe ser facil de usar y accesible desde dispositivos moviles y computadoras.
+	2. la velocidad de carga de la plataforma debe ser rapida para proporcionar una experiencia fluida.
+	3. los datos de los usuarios y transacciones deben ser almacenados de forma seegura y cumplir con regulaciones de privacidad.
